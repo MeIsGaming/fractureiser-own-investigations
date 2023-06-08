@@ -1,2 +1,2 @@
 # fractureiser-useful-links
-Useful Links about the ongoing fractureiser malware problem
+Useful [Links](./LINKS.md) about the ongoing fractureiser malware problem -> [Links](./LINKS.md)
