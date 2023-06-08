@@ -13,9 +13,9 @@
 
 ### Programs/Scripts to detect this Virus
 
+* [Nekodetector, a Scanner written in Java (all Stages -> 0,1,2,3)](https://github.com/MCRcortex/nekodetector)
 * [Overwolf's Detection-Tool (C#, Stage 2)](https://github.com/overwolf/detection-tool)
 * [Overwolf's Jar-Infection-Scanner (Stage 0)](https://github.com/overwolf/jar-infection-scanner)
-* [Nekodetector, a Scanner written in Java](https://github.com/MCRcortex/nekodetector)
 
 ##### Mostly Pastebin-Links with partially-working scripts
 
