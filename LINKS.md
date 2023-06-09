@@ -2,7 +2,7 @@
 
 ### Links for overall information
 
-* [PhoenixSC's Video (Useful Information, roundabout 7  Minutes)](https://www.youtube.com/watch?v=BH925m0QKds&pp=ygUJcGhvZW5peHNj)
+* [PhoenixSC's Video (Useful Information, 4 minute long overview)](https://www.youtube.com/watch?v=BH925m0QKds&pp=ygUJcGhvZW5peHNj)
 * [The Git-Repository regarding the Fractureiser Investigation](https://github.com/fractureiser-investigation/fractureiser)
 * [How to detect if u are a victim and other tips/information](https://github.com/fractureiser-investigation/fractureiser/blob/main/docs/users.md#am-i-infected)
 
