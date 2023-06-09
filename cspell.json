@@ -2,13 +2,17 @@
     "version": "0.2",
     "ignorePaths": [],
     "dictionaryDefinitions": [],
-    "dictionaries": [],
+    "dictionaries": [
+        "en-us",
+        "de-de"
+    ],
     "words": [
         "Fractureiser",
+        "MCRcortex",
         "Nekodetector",
         "Overwolf's",
         "Pastebin",
-        "MCRcortex"
+        "Scanwerkzeug"
     ],
     "ignoreWords": [],
     "import": []
