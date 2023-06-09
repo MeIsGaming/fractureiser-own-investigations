@@ -1,6 +1,6 @@
 # ENGLISH
 
-# Collection of useful Links regarding the Fractureiser Virus
+## Collection of useful Links regarding the Fractureiser Virus
 
 ### Links for overall information
 
@@ -16,7 +16,7 @@
 ### Programs/Scripts to detect this Virus
 
 * [Nekodetector, a Scanner written in Java ](https://github.com/MCRcortex/nekodetector) (scans all Stages -> 0,1,2,3, outputs only stage 2 & 3 due to missing example code)
-⋅⋅⋅Tutorial: [**My Tutorial, how to download & execute**](./tutorials/nekodetector.md)
+    Tutorial: [**My Tutorial, how to download & execute**](./tutorials/nekodetector.md)
 * [Overwolf's Detection-Tool (C#, Stage 2)](https://github.com/overwolf/detection-tool)
 * [Overwolf's Jar-Infection-Scanner (Stage 0)](https://github.com/overwolf/jar-infection-scanner)
 
@@ -30,7 +30,7 @@
 
 # DEUTSCH
 
-# Sammlung nützlicher Links zum Fractureiser-Virus
+## Sammlung nützlicher Links zum Fractureiser-Virus
 
 ### Links für allgemeine Informationen
 
@@ -46,7 +46,7 @@
 ### Programme/Scripts zur Erkennung dieses Virus
 
 * [Nekodetector, ein in Java geschriebener Scanner] (https://github.com/MCRcortex/nekodetector) (scannt alle Stufen -> 0,1,2,3, gibt nur Stufe 2 & 3 aus aufgrund fehlenden Beispielcodes)
-⋅⋅⋅Tutorial: [**Mein Tutorial, wie man Nekodetector herunterlädt und ausführt**](./tutorials/nekodetector.md)
+    Tutorial: [**Mein Tutorial, wie man Nekodetector herunterlädt und ausführt**](./tutorials/nekodetector.md)
 * [Overwolf's Scanwerkzeug (C#, Stufe 2)](https://github.com/overwolf/detection-tool)
 * [Overwolf's Jar-Infektions-Scanner (Stufe 0)](https://github.com/overwolf/jar-infection-scanner)
 

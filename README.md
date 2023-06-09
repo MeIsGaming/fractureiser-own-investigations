@@ -1,6 +1,6 @@
 # fractureiser-own-investigations
 
-# ENGLISH
+## ENGLISH
 
 Useful [Links](./LINKS.md) about the ongoing fractureiser malware problem -> [Links](./LINKS.md)
 
@@ -21,7 +21,7 @@ If you have questions regarding this Repository, feel free to contact me on Disc
 * Add Contact.md/add contact to the repository
 
 
-# DEUTSCH
+## DEUTSCH
 
 Nützliche [Links](./LINKS.md) zum aktuellen Fractureiser-Malware-Problem -> [Links](./LINKS.md)
 
