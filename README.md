@@ -1,20 +1,20 @@
 # fractureiser-own-investigations
-&nbsp;
-&nbsp;
+<br />
+<br />
 Useful [Links](./LINKS.md) about the ongoing fractureiser malware problem -> [Links](./LINKS.md)
-&nbsp;
+<br />
 For newest, but not so sorted Information please refer to <https://github.com/fractureiser-investigation/fractureiser>
-&nbsp;
-&nbsp;
-&nbsp;
+<br />
+<br />
+<br />
 If you have questions regarding this Repository, feel free to contact me on Discord: Me_is_Gaming#6969
-&nbsp;
-&nbsp;
+<br />
+<br />
 ⚠ **_WARNING: I do not guarantee that every link or information is safe! Please double-check, thank you!_** ⚠
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+<br />
+<br />
+<br />
+<br />
 ####TODOS:
-&nbsp;
+<br />
 * Add Contact.md/add contact to the repository
