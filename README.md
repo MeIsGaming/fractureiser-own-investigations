@@ -4,7 +4,7 @@
 
 Useful [Links](./LINKS.md) about the ongoing fractureiser malware problem -> [Links](./LINKS.md)
 
-For newest, but not so sorted Information please refer to <https://github.com/fractureiser-investigation/fractureiser>
+For newest, but not so sorted Information please refer to <https://github.com/fractureiser-investigation/fractureiser>. **THIS IS THE MAIN INVESTIGATION THAT'S GOING ON**, THEY ARE WORKING ON TRANSLATIONS. Here will be Tutorials, there will be all found investigations
 
 
 

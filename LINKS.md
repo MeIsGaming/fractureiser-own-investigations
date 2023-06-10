@@ -12,6 +12,7 @@
 
 * [Main timeline](https://github.com/fractureiser-investigation/fractureiser/blob/main/docs/timeline.md)
 * [HackMD Post, outdated (as of 09.06.23)](https://hackmd.io/B46EYzKXSfWSF35DeCZz9A)
+* [Overwolf's List over confirmed Mods and Modpacks](https://support.curseforge.com/en/support/solutions/articles/9000228509-june-2023-infected-mods-detection-tool/#Live-list-of-confirmed-mods-that-were-infected-(Last-Updated---06/07/2023-23:54-UTC))
 
 ### Programs/Scripts to detect this Virus
 
@@ -21,7 +22,7 @@
 * [Overwolf's Detection-Tool (C#, Stage 2)](https://github.com/overwolf/detection-tool)
 * [Overwolf's Jar-Infection-Scanner (Stage 0)](https://github.com/overwolf/jar-infection-scanner)
 
-##### Mostly Pastebin-Links with partially-working scripts
+##### Links to partially-working scripts and code snippets
 
 * [https://pastebin.com/MAY7czcj](https://pastebin.com/MAY7czcj)
 * [https://pastebin.com/T6aQ7C2E](https://pastebin.com/T6aQ7C2E)
@@ -52,7 +53,7 @@
 * [Overwolf's Scanwerkzeug (C#, Stufe 2)](https://github.com/overwolf/detection-tool)
 * [Overwolf's Jar-Infektions-Scanner (Stufe 0)](https://github.com/overwolf/jar-infection-scanner)
 
-##### Hauptsächlich Pastebin-Links mit teilweise funktionierenden Skripten
+##### Links mit teilweise funktionierenden Skripten
 
 * [https://pastebin.com/MAY7czcj](https://pastebin.com/MAY7czcj)
 * [https://pastebin.com/T6aQ7C2E](https://pastebin.com/T6aQ7C2E)
