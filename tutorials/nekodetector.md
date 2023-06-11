@@ -2,7 +2,7 @@
 
 1. Download the latest Nekodetector from the Releases Page: [RELEASES](https://github.com/MCRcortex/nekodetector/releases "Releases")
 2. Locate the downloaded .jar file
-3. Open a terminal (linux) or cmd (windows) and navigate to the downloaded file via `cd`
+3. Open a terminal (linux) or cmd (windows) (run it **without** administrator) and navigate to the folder of the downloaded file via `cd <name_of_the_folder_you_downloaded_to>`
 4. Execution:
 For Windows, execute `java -jar <name_of_downloaded_jar_file>.jar 4 C:\` to scan your full pc (C:\ drive) using 4 threads (depending on you specs, you can use more to increase the scan-speed).
 On Linux, do `java -jar <name_of_downloaded_jar_file>.jar 4 /` todo the same, 4 is again the number of threads to use.
