@@ -1,3 +1,7 @@
+# ARCHIVED! For questions: @me_is_gaming
+# ----------------------------------
+
+
 # fractureiser-own-investigations
 
 ## ENGLISH
